@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Capable of developing and fine tuning a variety of different types of models."
+  url: "https://kubernetes.io/"
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Have experience pulling data from SQL databases."
+  url: "https://golang.org/"
+
+- name: Stata
+  logo: /images/sections/skills/stata.jpg
+  summary: "Have experience running data analysis."
+
+- name: JavaScript
+  logo: /images/sections/skills/javascript.png
+  summary: "Basic experience editing and adjusting code."
+  url: "https://www.docker.com/"
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Need to learn this"
+  url: "https://prometheus.io/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github."
+  url: "https://git-scm.com/"

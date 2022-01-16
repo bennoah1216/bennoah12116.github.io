@@ -1,0 +1,78 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of California, Santa Barbara
+    url: "https://www.ucsb.edu/"
+    location: Santa Barbara, CA
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Teaching Assistant
+    start: Sept 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: August 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: Graduate Student Researcher
+    start: Sept 2019
+    end: August 2020
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: Cedars-Sinai Center for Outcomes Research and Education
+    url: "https://www.cedars-sinai.edu/research/areas/core.html"
+    location: Los Angeles, CA
+    overview: The Cedars-Sinai Center for Outcomes Research and Education (CS-CORE) is a group of academicians that supports high quality research efforts using a health services research model.
+  positions:
+  - designation: Research Assistant
+    start: Sept 2016
+    end: June 2018
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Cedars-Sinai Health Delivery Science Masters Program
+    url: "https://www.cedars-sinai.edu/education/graduate-school/masters/mhds.html"
+    location: Los Angeles, CA
+    overview: The Cedars-Sinai Master's Degree in Health Delivery Science (MHDS) is an accredited program designed to train tomorrow's healthcare leaders.
+  positions:
+  - designation: Teaching Assistant
+    start: Aug 2017
+    end: June 2018
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
+
+- company:
+    name: John E. Jaqua Academic Center for Student Athletes
+    url: "https://ssa.uoregon.edu/"
+    location: Eugene, OR
+    overview: Services for Student-Athletes ensures that student-athletes who are currently or have been affiliated with University of Oregon athletics, regardless of athletic eligibility, are provided every opportunity to accomplish academic goals and earn a degree.
+  positions:
+  - designation: Tutor
+    start: Jan 2016
+    end: June 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.

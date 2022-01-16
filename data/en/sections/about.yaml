@@ -1,0 +1,70 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Scientist
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate data scientist with an academic economic background. I have worked on projects in a variety of fields such as health, education, and crime. I recieved my B.S. in Economics from the University of Oregon and my Masters in Economics from the University of California, Santa Barbara (UCSB). In my free time I enjoy watching sports, building mechanical keyboards, and playing chess.'
+
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/bennoah1216"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bnoah1216@gmail.com"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ben-noah/"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/BNoah_12"
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/bennoah"
+- name: Stack Overflow
+  icon: "fab fa-stack-overflow"
+  url: ""
+
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: certification
+  name: Artificial Intelligence and Machine Learning
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Python
+  percentage: 95
+  color: '#4B8BBE'
+- name: SQL
+  percentage: 75
+  color: '#F29111'
+- name: Other
+  percentage: 50
+  color: green                                                                               

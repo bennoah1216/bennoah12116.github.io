@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Courses
+  id: accomplishments
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Data Scientist Course
+  timeline: "March 2021 - December 2021"
+  organization: 
+    name: Practicum by Yandex
+    url: http://practicum.yandex.com
+  courseOverview: 'Insert Later'
+  certificateURL: "https://example.com"
