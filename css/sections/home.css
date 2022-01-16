@@ -37,9 +37,9 @@
 }
 
 .home img {
-  width: 148px;
-  height: 148px;
-  background-color: #f9fafc;
+  width: 200px;
+  height: 200px;
+  background-color: transparent;
   padding: 5px;
   margin-bottom: 10px;
 }
