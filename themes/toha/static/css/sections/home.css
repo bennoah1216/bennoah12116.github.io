@@ -14,7 +14,6 @@
   background-attachment: fixed;
   background-position: center;
   transform: scale(1.1);
-  filter: blur(3px);
   background-size: cover;
 }
 
@@ -40,7 +39,7 @@
 .home img {
   width: 148px;
   height: 148px;
-  background-color: #e7e7ef;
+  background-color: transparent;
   padding: 5px;
   margin-bottom: 10px;
 }
