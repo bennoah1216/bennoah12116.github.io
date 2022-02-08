@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 7
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -14,14 +14,12 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
 - name: Hobby
   filter: "hobby"
 
 # your projects
 projects:
-- name: Ben Noah's Personal Website
+- name: Personal Website
   logo: 
   role: Owner
   timeline: "November 2021 - Present"
@@ -29,3 +27,20 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Personal Website.
   tags: ["professional", "javascript", "hugo"]
+- name: Practicum Projects
+  logo: 
+  role: Owner
+  timeline: "June 2021 - January 2022"
+  repo: https://github.com/bennoah1216/Practicum-Projects # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: All 15 projects from the Practicum data science bootcamp.
+  tags: ["professional", "python", "data science"]
+- name: Custom Keyboard
+  logo: 
+  role: Owner
+  timeline: "November 2021 - January 2022"
+  repo: https://github.com/bennoah1216/qmk_firmware # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I built and custom coded my own split keyboard using QMK firmware.
+  tags: ["hobby", "qmk","javascript"]
+

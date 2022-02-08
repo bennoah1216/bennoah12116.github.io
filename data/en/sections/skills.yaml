@@ -13,29 +13,24 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Capable of developing and fine tuning a variety of different types of models."
-  url: "https://kubernetes.io/"
+  summary: "My primary coding language to carry out data preprocessing, analysis, and modeling."
+
+- name: JavaScript
+  logo: /images/sections/skills/javascript.png
+  summary: "Have experience editing and adjusting code."
 
 - name: SQL
   logo: /images/sections/skills/sql.png
   summary: "Have experience pulling data from SQL databases."
-  url: "https://golang.org/"
 
 - name: Stata
   logo: /images/sections/skills/stata.jpg
-  summary: "Have experience running data analysis."
+  summary: "Have extensive experience using Stata for data preprocessing and analysis." 
 
-- name: JavaScript
-  logo: /images/sections/skills/javascript.png
-  summary: "Basic experience editing and adjusting code."
-  url: "https://www.docker.com/"
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: "Have basic experience using R for data preprocessing and analysis." 
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Need to learn this"
-  url: "https://prometheus.io/"
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github."
-  url: "https://git-scm.com/"
+- name: LaTeX
+  logo: /images/sections/skills/latex.png
+  summary: "Have extensive experience creating documents and presenations in LaTeX."   

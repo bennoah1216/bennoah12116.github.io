@@ -3,7 +3,7 @@ section:
   name: Python Package Knowledge
   id: skills
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -13,23 +13,43 @@ section:
 skills:
 - name: Data Imputation
   logo: /images/sections/skills/imputation.png
-  summary: "Capable of developing and fine tuning a variety of different types of models."
-
+  summary: | 
+         - IterativeImputer
+         - Missingpy
+         - FancyImpute
+         - AutoImpute
 
 - name: Machine Learning
   logo: /images/sections/skills/machine-learning.png
-  summary: "Have experience pulling data from SQL databases."
+  summary: | 
+         - Scikit-Learn
+         - Catboost
+         - LightGBM
+         - Optuna
 
+- name: Deep Learning
+  logo: /images/sections/skills/deep-learning.jpg
+  summary: | 
+         - Tensorflow
+         - Keras
+         - Pytorch
 
 - name: Natural Language Processing
   logo: /images/sections/skills/nlp.png
-  summary: "Have experience running data analysis."
+  summary: | 
+         - NLTK
+         - spaCy
 
 - name: Web Scraping
   logo: /images/sections/skills/scraping.png
-  summary: "Basic experience editing and adjusting code."
+  summary: | 
+         - Requests
+         - Beautiful Soup
 
 
 - name: Visualizations
   logo: /images/sections/skills/visualizations.png
-  summary: "Need to learn this"
+  summary: | 
+         - Matplotlib
+         - Seaborn
+         - Plotly

@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 4
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -19,22 +19,18 @@ experiences:
   positions:
   - designation: Teaching Assistant
     start: Sept 2018
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: August 2020
+    end: August 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
+    - Instruct 100+ undergraduate students in multiple economic courses (1 course per quarter), while managing a full graduate student course load.
+    - Work 1:1 with students to explain difficult course concepts while providing feedback effectively
   - designation: Graduate Student Researcher
     start: Sept 2019
     end: August 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
+    - Wrote 5+ reports analyzing research papers by highlighting the strengths, weaknesses, and ideas for future research using an economic perspective. 
+    - Wrote a research report on the use of mixture models in economic analysis.
+    - Identified new topics to research by synthesizing general research in the field and presented research proposals on topics in population, behavioral, and health economics.
 - company:
     name: Cedars-Sinai Center for Outcomes Research and Education
     url: "https://www.cedars-sinai.edu/research/areas/core.html"
@@ -45,9 +41,10 @@ experiences:
     start: Sept 2016
     end: June 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Designed cost-effectiveness/health decision models for various projects.
+    - Conducted systematic reviews and meta-analyses for several studies, including the use of remote monitoring  devices on clinical outcomes and the use of patient education materials to reduce inappropriate opioid use.
+    - Organized, planed, and coordinated a national conference on medical virtual reality.
+    - Coordinated Institutional Review Board applications, edited and revised consent forms, and revised protocols to ensure compliance with organizational policies and federal laws.
 
 - company:
     name: Cedars-Sinai Health Delivery Science Masters Program
@@ -59,9 +56,7 @@ experiences:
     start: Aug 2017
     end: June 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Collaborated to create a grading rubric for new masters-level Introduction to Biostatistics course.
 
 - company:
     name: John E. Jaqua Academic Center for Student Athletes
@@ -73,6 +68,57 @@ experiences:
     start: Jan 2016
     end: June 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Assisted diverse group of student athletes with course work, time management and study skills
+- company:
+    name: Unversity of Oregon Department of Economics
+    url: "https://economics.uoregon.edu/"
+    location: Eugene, OR
+    overview: The Economics Department at the University of Oregon, located in the College of Arts and Sciences, features a dedicated group of faculty, staff and students who lead the field in current economic issues. 
+  positions:
+  - designation: Research Assistant
+    start: Oct 2015
+    end: June 2016
+    responsibilities:
+    - Conducted literature review of a multitude of topics.
+    - Collected data and organized it into excel sheets.
+    - Reviewed research papers for content and grammatical/numerical errors.
+- company:
+    name: Unversity of Oregon Department of Economics
+    url: "https://economics.uoregon.edu/"
+    location: Eugene, OR
+    overview: The Economics Department at the University of Oregon, located in the College of Arts and Sciences, features a dedicated group of faculty, staff and students who lead the field in current economic issues. 
+  positions:
+  - designation: Research Assistant
+    start: Oct 2015
+    end: June 2016
+    responsibilities:
+    - Conducted literature review of a multitude of topics.
+    - Collected data and organized it into excel sheets.
+    - Reviewed research papers for content and grammatical/numerical errors.
+- company:
+    name: Cedars-Sinai Clinical Transformations
+    url: "https://www.cedars-sinai.org/"
+    location: Los Angeles, CA
+    overview: Clinical transformations works to improve quality and clinical efficiency to achieve better outcomes for patients at lower costs.
+  positions:
+  - designation: Intern
+    start: Jul 2015
+    end: Sep 2015
+    responsibilities:
+    - Researched biometric technologies, telehealth legislation, and other background information for a variety of pilots.
+    - Created workflows to find gaps in current mental health care at the hospital. 
+    - Generated data sources to be used to help understand many different aspects of the treatment of mental health.
+- company:
+    name: Fanscape
+    url: "https://fanscape.com/"
+    location: Marina Del Rey, CA
+    overview: Fanscape offers all of the services a consumer-facing brand needs to reach the right consumer, at the right time, with the right content, via the right marketing channels to deliver compelling business results across both digital and offline marketing channels.
+  positions:  
+  - designation: Intern
+    start: Jun 2014
+    end: Dec 2014
+    responsibilities:
+    - Assisted with developing client proposals.
+    - Aided in helping complete quarterly and monthly social media reports for clients. 
+    - Monitored social media marketing campaigns.
+    - Executed competitive analysis and basic market research for a variety of different companies.

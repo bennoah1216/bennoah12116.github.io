@@ -4,15 +4,21 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
+- name: Data Science Bootcamp
+  icon: fa-graduation-cap
+  timeframe: 2021-2022
+  institution: 
+    name: Practicum by Yandex
+    url: "https://practicum.yandex.com/data-scientist/"
 - name: Masters in Economics
   icon: fa-graduation-cap
-  timeframe: 2018-2019
+  timeframe: 2018-2020
   institution:
     name: University of California, Santa Barbara (UCSB)
     url: "https://econ.ucsb.edu/"
